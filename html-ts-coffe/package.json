@@ -1,5 +1,8 @@
 {
 	"dependencies": {
-		"typescript": "^5.9.3"
+		"typescript": "^5.9.3",
+		"viem": "^2.47.4",
+		"view": "^1.1.1",
+		"vite": "^8.0.0"
 	}
 }

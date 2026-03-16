@@ -1,6 +1,6 @@
 
 import { createWalletClient, custom, createPublicClient, parseEther, defineChain, formatEther } from "https://esm.sh/viem";
-import { contractAddress, coffeeabi } from "./constants.js"
+import { contractAddress, coffeeabi } from "./constants-js.js"
 
 const connectbtn = document.getElementById("connectbtn")
 const fundbtn = document.getElementById("fundbtn")
