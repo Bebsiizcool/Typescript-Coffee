@@ -1,9 +1,8 @@
-import {ConnectButton } from "@rainbow-me/rainbowkit"
+import AirDropform from "@/components/Airdropform"
 export default function Home() {
  return (
   <div>
-    <ConnectButton/>
-    hi
+    <AirDropform/>
   </div>
  )
 }
