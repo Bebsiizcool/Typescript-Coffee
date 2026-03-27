@@ -3,11 +3,13 @@
   "private": true,
   "version": "0.0.1",
   "scripts": {
+    
+   
+    "anvil": "anvil",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "anvil": "anvil --load-state tsender-deployed.json",
     "coverage": "pnpm vitest run --coverage",
     "test:unit": "vitest",
     "test:cache": "pnpm synpress",
