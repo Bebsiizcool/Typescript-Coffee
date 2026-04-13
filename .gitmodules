@@ -1,0 +1,3 @@
+[submodule "ts-tsender/contracts/lib/openzeppelin-contracts"]
+	path = ts-tsender/contracts/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
